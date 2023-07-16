@@ -41,5 +41,5 @@
 ---
 
 ## Author
-* **Ikpa Precious** (https://mahiuha.github.io/masterprecie/)
+* **Ikpa Precious** 
  
